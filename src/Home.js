@@ -35,7 +35,7 @@ function Home(){
         </table>
         <table  width="100%" cellspacing="0px">
             <tr>
-                <td><center><video src={sr} width="70%" height="440" controls>
+                <td><center><video src={sr} width="70%" height="440" controls autoPlay>
                 </video></center>
             </td>
             </tr>

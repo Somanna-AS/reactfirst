@@ -1,0 +1,58 @@
+button {
+  background-color: #0eb7f4;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 70%;
+  opacity: 0.9;
+	font-size:16px;
+	font-family: Montserrat,Arial, Helvetica, sans-serif;
+	border-radius:10px;
+}
+
+button:hover {
+  opacity:1;
+}
+.form{
+  
+  border-radius: 5px;
+  width: 550px;
+  margin: 20px auto;
+  padding: 20px;
+  
+}
+.form > *{
+  padding: 5px;
+}
+
+.form__label{
+  padding-left: 50px;
+  width: 40%;
+}
+
+.form_input{
+  width: 90%;
+}
+h2,h3{
+  padding-left: 100mm;
+}
+.Register{
+  height:600px;
+background-image: url("rebg.png");
+background-size: cover;
+}
+input{
+  width: 70%;
+}
+h2{
+  padding-top: 5mm;
+}
+.sig{
+  text-decoration: none;
+  color: white;
+}
+.lgh{
+  padding-top: 5mm;
+}
