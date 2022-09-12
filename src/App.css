@@ -1,0 +1,62 @@
+.navb{
+  color: black;
+  text-decoration: none;
+  font-size: 6mm;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navb:hover {
+  transform: translateY(4px);
+  font-size: 7mm;
+  font-weight: bold;
+  text-shadow: rgb(126, 221, 255) 1px 0 10px;
+}
+.nam{
+  text-align: center;
+}
+.wel{
+  color: #d35400; 
+  padding-left: 20mm; 
+  padding-top: 5mm; 
+  padding-bottom: 5mm;
+}
+.App{
+  background-image: url("bg.jpg");
+                background-repeat: no-repeat;
+               
+                background-size: cover;
+}
+p{
+  padding: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #95afc0;
+  font-size: 6mm;
+  line-height: 1.6;
+}
+*{
+  margin: auto;
+}
+.con{
+  padding-left: 15mm;
+   padding-top: 10mm;
+}
+table{
+  border-collapse: collapse;
+  border-color: white;
+}
+im{
+  padding-left: 6mm;
+  padding-top: 5mm;
+}
+.im:hover{
+  transition: 1s;
+  transform: scale(1.2);
+}
+.ext{
+  text-decoration: underline;
+  color: #95afc0;
+}
+.foot{
+  padding: 50px;
+  font-size: 10mm;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
